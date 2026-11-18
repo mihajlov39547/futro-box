@@ -1,0 +1,18 @@
+# Separate PK2 source repository
+/PekkaKana2-source/
+
+# Generated files
+**/build/
+**/bin/
+*.log
+*.tmp
+
+# Local configuration
+.vscode/
+.idea/
+
+# Secrets
+*.key
+*.pem
+*.p12
+*.keystore
